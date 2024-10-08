@@ -1,5 +1,5 @@
 body{
-    background-image:linear-gradient(rgba(136,136,206,0.7) , rgba(136,136,206,0.7)), url(./imagenes/backgroud.jpeg);
+    background-image:linear-gradient(rgba(136,136,206,0.7) , rgba(136,136,206,0.7)), url(/imagenes/backgroud.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }
